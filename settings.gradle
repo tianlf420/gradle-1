@@ -1,0 +1,7 @@
+rootProject.name = 'gradle-parent-ssm-01'
+include 'gradle-common-ssm-01'
+include 'gradle-entity-ssm-01'
+include 'gradle-mapper-ssm-01'
+include 'gradle-service-ssm-01'
+include 'gradle-controller-ssm-01'
+
